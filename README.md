@@ -1,9 +1,10 @@
 # Data Preparation and Visual Analysis with R
 
-2 Day Workshop at Universität Luzern (2019-12-02 & 2020-01-13)
-Dr. Bernd Fellinghauer, Dr. Carolina Fellinghauer
+* Monday, December 2, 9-12 room 4.B51 / 12.00-16.00 hrs HS 13
+* Monday, January 13, 9 am to 4 pm, room HS 2
+* Tutors: Dr. Bernd Fellinghauer, Dr. Carolina Fellinghauer
 
-Welcome to the course hompage. 
+Welcome to the course hompage
 
 ### Course Material
 
