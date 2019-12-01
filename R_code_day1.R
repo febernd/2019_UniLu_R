@@ -4,7 +4,7 @@
 
 # Demo Code for Course Day 1
 # Authors: Dr. Bernd Fellinghauer, Dr. Carolina Fellinghauer
-
+# 2 day workshop at University of Lucerne, 2019/2020
 
 # First steps
 1 + 2
