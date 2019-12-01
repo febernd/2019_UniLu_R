@@ -9,4 +9,5 @@
 ## Course Material
 * [Installation instructions](https://github.com/febernd/2019_UniLu_R/blob/master/R_Installation.pdf) for R, RStudio and the tidyverse set of R packages 
 * [Course data](https://github.com/febernd/2019_UniLu_R/blob/master/course_data_day1.zip) for day 1
-* R code and course slides will be made available at a later time.
+* [Slides - Data Prep](https://github.com/febernd/2019_UniLu_R/blob/master/slides_day1.pdf) for day 1
+* [R Code - Data Prep ](https://github.com/febernd/2019_UniLu_R/blob/master/R_code_day1.R) for day 1
