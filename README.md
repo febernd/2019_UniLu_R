@@ -7,7 +7,21 @@
 
 
 ## Course Material
+### Day 1
 * [Installation instructions](https://github.com/febernd/2019_UniLu_R/blob/master/R_Installation.pdf) for R, RStudio and the tidyverse set of R packages 
 * [Course data](https://github.com/febernd/2019_UniLu_R/blob/master/course_data_day1.zip) for day 1
 * [Slides - Data Prep](https://github.com/febernd/2019_UniLu_R/blob/master/slides_day1.pdf) for day 1
 * [R Code - Data Prep ](https://github.com/febernd/2019_UniLu_R/blob/master/R_code_day1.R) for day 1
+
+### Day 2
+* [Course data](https://github.com/febernd/2019_UniLu_R/blob/master/course_data_day2.zip) for day 2
+* Please install the required packages by typing the below command into the R console
+```
+install.packages(c("wordcloud","ggplot2","ggBubbles","dplyr","tibble",
+                   "ggeffects", "tableone", "RColorBrewer", "yarrr",
+                   "igraph","scatterplot3d", "rgl", "VennDiagram", "vcd"
+))
+```
+On Mac: Optional 
+* to follow along the interactive 3d chart example you need to first install XQuartz from xquartz.org 
+* the 3d plot GUI will also be presented by the tutor and will not be part of an exercise, so the installation is optional
