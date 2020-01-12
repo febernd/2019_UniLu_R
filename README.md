@@ -14,7 +14,7 @@
 * [R Code - Data Prep ](https://github.com/febernd/2019_UniLu_R/blob/master/day1/R_code_day1.R) for day 1
 
 ### Day 2
- data](https://github.com/febernd/2019_UniLu_R/blob/master/day2/Data/course_data_day2.zip) for day 2
+* [data](https://github.com/febernd/2019_UniLu_R/blob/master/day2/Data/course_data_day2.zip) for day 2
 * [PDF Workbook - Visual Analysis](https://github.com/febernd/2019_UniLu_R/blob/master/day2/DataVisualization_Workbook.pdf) for day 2
 * [R Code - Visual Analysis ](https://github.com/febernd/2019_UniLu_R/blob/master/day2/R_Codes/R_code_day2.zip) for day 2
 * [Course
