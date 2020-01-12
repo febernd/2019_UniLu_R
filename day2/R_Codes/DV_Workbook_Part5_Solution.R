@@ -4,10 +4,10 @@
 # Refer to the reference https://ggplot2.tidyverse.org/reference and
 # # https://ggplot2.tidyverse.org/reference/geom_boxplot.html for details
 
-# Build the graph step by step using Smpl_who
-# First, tell R which data set to use (ggplot), establish the basic aesthetics (aes) of
+# Build the graph step by step using ggplot
+# First, tell R which dataset to use (Smpl_who), establish the basic aesthetics (aes) of
 #        what to draw on the x and y axis and which variable to use to color the
-#        two box plots, and define the geometry (geom_boxplot)
+#        two boxplots, and define the geometry (geom_boxplot)
 p <- ggplot(Smpl_who) + # Data set
   aes(x=sex, y=health, fill=sex) + # Re-order
   geom_boxplot() # Standard point chart
@@ -49,7 +49,7 @@ p6 <- p5 +
   theme(legend.position = "none") 
 p6
 
-# Final Task (...tricky): Add a horizontal line to the end of your whiskers
+# Final task (...tricky): Add a horizontal line to the end of your whiskers
 #   as is often the case in standard boxplots
 #   Tip: Modify stat_boplot() and add to plot
 p7 <- p6 +

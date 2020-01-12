@@ -141,10 +141,10 @@ graphics.off() # Reset default window state
 # Refer to the reference https://ggplot2.tidyverse.org/reference and
 #         https://ggplot2.tidyverse.org/reference/geom_boxplot.html for details
 
-# Build the graph step by step using Smpl_who
-# First, tell R which data set to use (ggplot), establish the basic aesthetics (aes) of
+# Build the graph step by step using ggplot
+# First, tell R which dataset to use (Smpl_who), establish the basic aesthetics (aes) of
 #        what to draw on the x and y axis and which variable to use to color the
-#        two box plots, and define the geometry (geom_boxplot)
+#        two boxplots, and define the geometry (geom_boxplot)
 
 # Next, color (use fill-argument) females in "Coral" and males in "cornflower" blue
 #     tip: define a help vector analogue to green_red called coral_blue and
@@ -152,7 +152,6 @@ graphics.off() # Reset default window state
 #     tip: use scale_color_manual with the "fill" aesthetics property
 
 # Next, assign nicer x and y axis labels
-#   Also, extend the y-axis range
 
 # Next, change the plot template to theme_minimal
 
@@ -161,7 +160,7 @@ graphics.off() # Reset default window state
 # Remove the plot's legend
 # Tip: this is a theme option
 
-# Final Task (...tricky): Add a horizontal line to the end of your whiskers
+# Final task (...tricky): Add a horizontal line to the end of your whiskers
 #   as is often the case in standard boxplots
 #   Tip: Modify stat_boplot() and add to plot
 
