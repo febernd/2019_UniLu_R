@@ -8,13 +8,16 @@
 
 ## Course Material
 ### Day 1
-* [Installation instructions](https://github.com/febernd/2019_UniLu_R/blob/master/R_Installation.pdf) for R, RStudio and the tidyverse set of R packages 
-* [Course data](https://github.com/febernd/2019_UniLu_R/blob/master/course_data_day1.zip) for day 1
-* [Slides - Data Prep](https://github.com/febernd/2019_UniLu_R/blob/master/slides_day1.pdf) for day 1
-* [R Code - Data Prep ](https://github.com/febernd/2019_UniLu_R/blob/master/R_code_day1.R) for day 1
+* [Installation instructions](https://github.com/febernd/2019_UniLu_R/blob/master/day1/R_Installation.pdf) for R, RStudio and the tidyverse set of R packages 
+* [Course data](https://github.com/febernd/2019_UniLu_R/blob/master/day1/course_data_day1.zip) for day 1
+* [Slides - Data Prep](https://github.com/febernd/2019_UniLu_R/blob/master/day1/slides_day1.pdf) for day 1
+* [R Code - Data Prep ](https://github.com/febernd/2019_UniLu_R/blob/master/day1/R_code_day1.R) for day 1
 
 ### Day 2
-* [Course data](https://github.com/febernd/2019_UniLu_R/blob/master/course_data_day2.zip) for day 2
+ data](https://github.com/febernd/2019_UniLu_R/blob/master/day2/Data/course_data_day2.zip) for day 2
+* [PDF Workbook - Visual Analysis](https://github.com/febernd/2019_UniLu_R/blob/master/day2/DataVisualization_Workbook.pdf) for day 2
+* [R Code - Visual Analysis ](https://github.com/febernd/2019_UniLu_R/blob/master/day2/R_Codes/R_code_day2.zip) for day 2
+* [Course
 * Please install the required packages by typing the below command into the R console
 ```
 install.packages(c("wordcloud","ggplot2","ggBubbles","dplyr","tibble",
