@@ -27,3 +27,9 @@ install.packages(c("wordcloud","ggplot2","ggBubbles","dplyr","tibble",
 On Mac: Optional 
 * to follow along the interactive 3d chart example you need to first install XQuartz from xquartz.org 
 * the 3d plot GUI will also be presented by the tutor and will not be part of an exercise, so the installation is optional
+
+Links
+* [Stackoverflow](https://stackoverflow.com) - an excellent forum for R questions
+* [R Graph Gallery[(https://www.r-graph-gallery.com/index.html) - a collection of many typical graph templates
+* [Forest Plot](http://www.metafor-project.org/doku.php/plots:forest_plot_with_subgroups) for meta-analysen with the metafor package
+* [Forest Plot](https://www.datacamp.com/community/tutorials/survival-analysis-R) for hazard ratio analysis (survival analysis) with survival and survminer packages
