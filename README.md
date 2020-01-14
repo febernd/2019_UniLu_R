@@ -31,6 +31,6 @@ On Mac: Optional
 Links
 * [Stackoverflow](https://stackoverflow.com) - an excellent forum for R questions
 * [R Graph Gallery[(https://www.r-graph-gallery.com/index.html) - a collection of many typical graph templates
-* [Forest Plot](http://www.metafor-project.org/doku.php/plots:forest_plot_with_subgroups) for meta-analysen with the metafor package
+* [Forest Plot](http://www.metafor-project.org/doku.php/plots:forest_plot_with_subgroups) for meta-analyses with the metafor package
 * [Forest Plot](https://www.datacamp.com/community/tutorials/survival-analysis-R) for hazard ratio analysis (survival analysis) with survival and survminer packages
 * Many more links you find in the [course workbook](https://github.com/febernd/2019_UniLu_R/blob/master/day2/DataVisualization_Workbook.pdf)
