@@ -1,5 +1,3 @@
-Test-Eintrag
-
 # Data Preparation and Visual Analysis with R
 
 ## Course Information
